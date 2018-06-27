@@ -1,0 +1,6 @@
+[package]
+name = "type_a_crc"
+version = "0.1.0"
+authors = ["Alexey Arbuzov <aarbuzov@termt.com>"]
+
+[dependencies]
